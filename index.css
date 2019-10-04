@@ -1,0 +1,37 @@
+div{
+    margin: 100px auto ;
+     padding: 20px;
+     text-align: center;
+     background-color: rgb(197, 194, 190);
+     width: 700;
+     height: 1550;
+     align-content: center;
+     
+
+}
+div ul{
+    text-align: left
+
+}
+div h3{
+    text-align: left
+}
+
+.cc{
+    padding: 10px;
+    background-color: rgb(241, 245, 245);
+    margin: 0px auto;
+    width: 650;
+    height: 450;
+    align-content: center;
+    
+}
+.ss{
+    text-align: center;
+    align-content: center;
+    width: 75%;
+    height: 770;
+    margin: 0 auto;
+    
+
+}
